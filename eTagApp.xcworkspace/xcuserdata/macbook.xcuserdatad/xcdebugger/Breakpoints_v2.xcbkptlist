@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "91A7CA80-B8FF-4B9E-A004-31BCADAA0230"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "960C35D9-C9E6-4796-A598-A6BFB77BAABC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "eTagApp/Module/PictureInPicture/Cell/LiveShowCell.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "setupPlayerViewController(with:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "960C35D9-C9E6-4796-A598-A6BFB77BAABC - 2f5bf025c1c08d9a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eTagApp.LiveShowCell.setupPlayerViewController(with: Foundation.URL) -&gt; ()"
+                  moduleName = "eTagApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RND/eTagApp/eTagApp/Module/PictureInPicture/Cell/LiveShowCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "2388">
+               </Location>
+               <Location
+                  uuid = "960C35D9-C9E6-4796-A598-A6BFB77BAABC - 2f5bf025c1c08df9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eTagApp.LiveShowCell.setupPlayerViewController(with: Foundation.URL) -&gt; ()"
+                  moduleName = "eTagApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RND/eTagApp/eTagApp/Module/PictureInPicture/Cell/LiveShowCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "2388">
+               </Location>
+               <Location
+                  uuid = "960C35D9-C9E6-4796-A598-A6BFB77BAABC - 2f5bf025c1c08df9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "eTagApp.LiveShowCell.setupPlayerViewController(with: Foundation.URL) -&gt; ()"
+                  moduleName = "eTagApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbook/Documents/RND/eTagApp/eTagApp/Module/PictureInPicture/Cell/LiveShowCell.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "87"
+                  endingLineNumber = "87"
+                  offsetFromSymbolStart = "2416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

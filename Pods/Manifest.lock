@@ -1,0 +1,40 @@
+PODS:
+  - Adjust (4.38.4):
+    - Adjust/Core (= 4.38.4)
+  - Adjust/Core (4.38.4)
+  - Alamofire (5.9.1)
+  - AlamofireImage (4.3.0):
+    - Alamofire (~> 5.8)
+  - DGCharts (5.1.0):
+    - DGCharts/Core (= 5.1.0)
+  - DGCharts/Core (5.1.0)
+  - FLEX (5.22.10)
+  - SnapKit (5.7.1)
+
+DEPENDENCIES:
+  - Adjust (~> 4.38.4)
+  - AlamofireImage (~> 4.3)
+  - DGCharts
+  - FLEX
+  - SnapKit (~> 5.7.0)
+
+SPEC REPOS:
+  trunk:
+    - Adjust
+    - Alamofire
+    - AlamofireImage
+    - DGCharts
+    - FLEX
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Adjust: afda46df69f035fd216310fb85f399c40c61830a
+  Alamofire: f36a35757af4587d8e4f4bfa223ad10be2422b8c
+  AlamofireImage: 843953fa97bee5f561cf05d83abd759e590b068d
+  DGCharts: 1c6daf585b6cfc78807af44ea690d357c410627f
+  FLEX: f21ee4f498eed3f8a1eded66b21939fd3b7a22ce
+  SnapKit: d612e99e678a2d3b95bf60b0705ed0a35c03484a
+
+PODFILE CHECKSUM: 26ff92088d91d7853160eaad4f429c7c53dbbdb7
+
+COCOAPODS: 1.14.3
